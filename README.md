@@ -1,4 +1,4 @@
-# Pharmawizard4UNICOM
+# User Facing App - Pharmawizard4UNICOM
 
 This [Flutter](https://docs.flutter.dev/get-started/install) app, along with the Patient Facing Apps, is critical to the cross-border drug substitution flow. 
 
